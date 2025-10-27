@@ -11,6 +11,6 @@ A simple voice-controlled assistant built with Python. Jarvis can listen, speak,
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/DesktopAI.git
+git clone https://github.com/astonishing/DesktopAI.git
 cd DesktopAI
 pip install pyttsx3 speechrecognition wikipedia
